@@ -22,5 +22,4 @@ class banner:
 {light.magenta}[✔] {light.black}exit\t Command Exit jeng kaluar iye program atanapi kaluar ti plugin nu ku anjen pilih
     """
 
-class plugin:
     
